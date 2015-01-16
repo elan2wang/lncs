@@ -1,0 +1,11 @@
+*.pdf
+*.ind
+*.dvi
+*.bbl
+*.blg
+*.log
+*.gz
+*.aux
+*.doc
+*.dem
+**/*.pdf
